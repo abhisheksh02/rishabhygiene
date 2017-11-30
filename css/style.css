@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -1360,7 +1360,7 @@ body {
 }
 
 .row-bottom-padded-lg {
-  padding-bottom: 7em;
+  padding-bottom: 4em;
 }
 @media screen and (max-width: 768px) {
   .row-bottom-padded-lg {
@@ -1369,7 +1369,7 @@ body {
 }
 
 .row-top-padded-lg {
-  padding-top: 7em;
+  padding-top: 4em;
 }
 @media screen and (max-width: 768px) {
   .row-top-padded-lg {
@@ -1378,38 +1378,38 @@ body {
 }
 
 .row-bottom-padded-md {
-  padding-bottom: 4em;
+  padding-bottom: 2em;
 }
 @media screen and (max-width: 768px) {
   .row-bottom-padded-md {
-    padding-bottom: 2em;
+    padding-bottom: 1em;
   }
 }
 
 .row-top-padded-md {
-  padding-top: 4em;
+  padding-top: 2em;
 }
 @media screen and (max-width: 768px) {
   .row-top-padded-md {
-    padding-top: 2em;
+    padding-top: 1em;
   }
 }
 
 .row-bottom-padded-sm {
-  padding-bottom: 2em;
+  padding-bottom: 1em;
 }
 @media screen and (max-width: 768px) {
   .row-bottom-padded-sm {
-    padding-bottom: 2em;
+    padding-bottom: 0.5em;
   }
 }
 
 .row-top-padded-sm {
-  padding-top: 2em;
+  padding-top: 1em;
 }
 @media screen and (max-width: 768px) {
   .row-top-padded-sm {
-    padding-top: 2em;
+    padding-top: 0.5em;
   }
 }
 
